@@ -1,0 +1,1 @@
+launch fastapi app = uvicorn app.main:app --realod
